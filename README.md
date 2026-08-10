@@ -79,6 +79,7 @@ If you are using macOS Tahoe, please note that starting with macOS Tahoe Beta 2,
 **Updated on 09.07.2026**
 
 **⚠️ Attention!**
+
 `In the near future, a CPU upgrade from the i3-6100 (Skylake) to the i3-9100 (Coffee Lake Refresh) is planned by modifying the BIOS of the ASUS H110M-R motherboard (CoffeeMod). Additionally, a new EFI for the new architecture will be added to the repository.`
 
 **not completed yet...**

@@ -28,7 +28,7 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 | iGPU      | Intel HD Graphics 530 |
 | dGPU      | AMD Radeon RX580 4GB Sapphire Nitro+ |
 | Audio     | ALC887 – alcid=3 |
-| Ethernet  | Realtek Gigabit Ethernet RTL8111H |
+| Ethernet  | Realtek Gigabit Ethernet RTL8111H(8168H) |
 
 ---
 

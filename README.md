@@ -88,4 +88,4 @@ If you are using macOS Tahoe, please note that starting with macOS Tahoe Beta 2,
 
 You can find all the latest information, future updates, and bootloader improvements here → [GitHub repository](https://github.com/Dizikdd/H110M-R-i3-9100-Tahoe-Hackintosh?utm_source=chatgpt.com)
 
-**Этот репозиторий вскоре будет архивирован. Пока что будут обновляться только загрузчик и кексты до последних версий, рекомендуемых Dortania**
+**This repository will soon be archived. For now, only the bootloader and kexts will be updated to the latest versions recommended by Dortania**

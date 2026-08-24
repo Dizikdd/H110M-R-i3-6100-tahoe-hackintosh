@@ -26,7 +26,7 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 | RAM       | Kingston 16GB 2133mhz |
 | Storage   | AMD 256GB SSD |
 | iGPU      | Intel HD Graphics 530 |
-| dGPU      | Sapphire AMD Radeon RX580 4GB |
+| dGPU      | AMD Radeon RX580 4GB Sapphire Nitro+ |
 | Audio     | ALC887 – alcid=3 |
 | Ethernet  | Realtek Gigabit Ethernet RTL8111H |
 
@@ -82,4 +82,10 @@ If you are using macOS Tahoe, please note that starting with macOS Tahoe Beta 2,
 
 `In the near future, a CPU upgrade from the i3-6100 (Skylake) to the i3-9100 (Coffee Lake Refresh) is planned by modifying the BIOS of the ASUS H110M-R motherboard (CoffeeMod). Additionally, a new EFI for the new architecture will be added to the repository.`
 
-**not completed yet...**
+**⚠️Attention!**
+
+⚡️The long-awaited update is here!⚡️ Thanks to Coffeemode, it was possible to modify the LGA 1151v1 socket platform to support Coffee Lake processors, allowing the CPU in this computer to be upgraded from an i3-6100 to an i3-9100. The bootloader has also been updated.
+
+You can find all the latest information, future updates, and bootloader improvements here → [GitHub repository](https://github.com/Dizikdd/H110M-R-i3-9100-Tahoe-Hackintosh?utm_source=chatgpt.com)
+
+**Этот репозиторий вскоре будет архивирован. Пока что будут обновляться только загрузчик и кексты до последних версий, рекомендуемых Dortania**

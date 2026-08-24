@@ -22,13 +22,13 @@ ASUS H110M-R intel® Core™ i3-6100 Sapphire Radeon RX580 Tahoe Hackintosh Open
 
 | Component | info |
 |-----------|------|
-| CPU       | Intel® Core™ i3-6100 |
-| RAM       | Kingston 16GB 2133mhz |
-| Storage   | AMD 256GB SSD |
-| iGPU      | Intel HD Graphics 530 |
-| dGPU      | AMD Radeon RX580 4GB Sapphire Nitro+ |
-| Audio     | ALC887 – alcid=3 |
-| Ethernet  | Realtek Gigabit Ethernet RTL8111H(8168H) |
+| CPU       | `Intel® Core™ i3-6100` |
+| RAM       | `Kingston 16GB 2133mhz` |
+| Storage   | `AMD 256GB SSD` |
+| iGPU      | `Intel HD Graphics 530` |
+| dGPU      | `AMD Radeon RX580 4GB Sapphire Nitro+` |
+| Audio     | `ALC887 – alcid=3` |
+| Ethernet  | `Realtek Gigabit Ethernet RTL8111H(8168H)` |
 
 ---
 
